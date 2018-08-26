@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.7.3)
+  - SwiftMessages (4.1.4):
+    - SwiftMessages/App (= 4.1.4)
+  - SwiftMessages/App (4.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  SwiftMessages: 2c33fdee8b8f38dfc7e1036684456b505891da8c
+
+PODFILE CHECKSUM: 3c15bd06d9a29f85b76ef098edaa58e773612018
+
+COCOAPODS: 1.5.2
